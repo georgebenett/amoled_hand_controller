@@ -2,7 +2,7 @@ dependencies:
   esp_lcd_sh8601:
     dependencies: []
     source:
-      path: /home/george/Downloads/new_controller/firmware/components/esp_lcd_sh8601
+      path: /home/george/Documents/myrepo/amoled_hand_controller/firmware/components/esp_lcd_sh8601
       type: local
     version: 1.0.0
   espressif/cmake_utilities:
@@ -18,13 +18,13 @@ dependencies:
   espressif/esp_lcd_touch:
     dependencies: []
     source:
-      path: /home/george/Downloads/new_controller/firmware/components/espressif__esp_lcd_touch
+      path: /home/george/Documents/myrepo/amoled_hand_controller/firmware/components/espressif__esp_lcd_touch
       type: local
     version: 1.1.1
   espressif/esp_lcd_touch_ft5x06:
     dependencies: []
     source:
-      path: /home/george/Downloads/new_controller/firmware/components/espressif__esp_lcd_touch_ft5x06
+      path: /home/george/Documents/myrepo/amoled_hand_controller/firmware/components/espressif__esp_lcd_touch_ft5x06
       type: local
     version: 1.0.6
   idf:
@@ -34,7 +34,7 @@ dependencies:
   lvgl/lvgl:
     dependencies: []
     source:
-      path: /home/george/Downloads/new_controller/firmware/components/lvgl__lvgl
+      path: /home/george/Documents/myrepo/amoled_hand_controller/firmware/components/lvgl__lvgl
       type: local
     version: 8.3.11
 direct_dependencies:
